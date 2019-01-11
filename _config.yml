@@ -20,7 +20,7 @@ description: "A single-page template for Jekyll based blogs (like what you'd use
 favicon:     "img/favicon.ico"
 touch_icon:  "img/apple-touch-icon.png"
 google_analytics_key:  ## put YOUR key here to enable tracking! (blank to disable)
-baseurl: "mat362"
+baseurl: "numerical362"
 
 ### template colors, used site-wide via css ###
 colors:
